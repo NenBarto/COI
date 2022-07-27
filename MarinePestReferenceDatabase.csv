@@ -1,0 +1,101 @@
+Sample ID,Species Name,Mitogenome,Chlorplast,18SRNA
+1470a,Acanthogobius flavimanus,Y,N,Y
+1169a,Anadara transversa,Y,N,Y
+1299a,Arcuatula senhousia,Y,N,Y
+A0181-A,Arcuatula senhousia,Y,N,Y
+581a,Asterias amurensis,Y,N,Y
+A0739-1,Asterias amurensis,Y,N,Y
+A0739-2,Asterias amurensis,Y,N,Y
+1087a,Bonnemaisonia hamifera,N,Y,Y
+A1341-a,Brachidontes sp.,N,N,Y
+A1044-c,Caprella mutica,N,N,Y
+1546a,Carcinoscorpius rotundicauda,Y,N,Y
+1525a,Carcinus maenas,Y,N,Y
+A1008b,Caulerpa cylinderca,N,Y,Y
+A0547a,Caulerpa taxifolia,N,N,Y
+A1007b,Caulerpa taxifolia,N,N,Y
+1672,Charybdis granulata,Y,N,Y
+A1051-b,Charybdis japonica,Y,N,N
+1659a,Charybdis japonica,Y,N,Y
+A1387,Charybdis jaubertensis,Y,N,Y
+A0767-a,Charybdis jaubertensis,Y,N,Y
+A1390,Charybdis truncata,Y,N,Y
+A1391,Charybdis truncata,Y,N,Y
+A0765-a,Charybdis truncata,Y,N,Y
+A0766-a,Charybdis yaldwyni,Y,N,Y
+A1001b,Ciona intestinalis,Y,N,Y
+A1085-c,Ciona intestinalis,N,N,Y
+A1083-c,Ciona savignyi,Y,N,Y
+A1314-c,Codium duthieae,N,N,Y
+1298a,Codium fragile,N,Y,Y
+1561a,Codium fragile fragile,N,Y,Y
+1561b,Codium fragile fragile,N,Y,Y
+1033a,Corbula fluminea,Y,N,Y
+A1052-c,Coscinasterias muricata,Y,N,Y
+922a,Crassostrea gigas,Y,N,Y
+A1003b,Crassostrea gigas,Y,N,Y
+1386a,Didemnum perlucidum,Y,N,Y
+A1087-c,Didemnum perlucidum,Y,N,Y
+1664a,Didemnum vexillum,Y,N,Y
+1053a,Dreissena bugensis,Y,N,Y
+1054a,Dreissena polymorpha,Y,N,Y
+1513a,Ensis leei (Ensis directus),Y,N,Y
+1550a,Eriocheir sinensis,Y,N,Y
+A1086-c,Eudistoma elongatum,Y,N,Y
+1088a,Fucus evanescens,N,Y,Y
+1176a,Geukensia demissa,Y,N,Y
+1645a,Grateloupia turuturu ,N,Y,Y
+1661a,Grateloupia turuturu ,N,Y,Y
+A1047-c,Hemigrapsus crenulatus,Y,N,Y
+1153a,Hemigrapsus sanguineus,Y,N,Y
+A1049-c,Hemigrapsus sexdentatus,Y,N,Y
+1522a,Hemigrapsus takanoi,Y,N,Y
+1649a,Limnoperna securis (Xenostrobus securis),Y,N,Y
+A0761,Lupocycloporus gracilimanus,Y,N,Y
+A0762,Lupocyclus tugelae,Y,N,Y
+A1054-c,Magallana gigas,Y,N,Y
+A0707-b,Maoricolpus roseus,Y,N,Y
+A1046-c,Maoricolpus roseus,Y,N,Y
+1667a,Maoricolpus roseus ,Y,N,Y
+A1388,Monomia curvipenis,Y,N,N
+1614a,Mya arenaria,Y,N,Y
+A0706-b,Mya japonica,Y,N,Y
+1175a,Mytella charruana,Y,N,Y
+1545a,Mytilopsis leucophaeata,Y,N,Y
+1651a,Mytilopsis sallei,Y,N,Y
+A1045-c,Mytilus galloprovincialis,N,N,Y
+A1053-c,Mytilus galloprovincialis,Y,N,Y
+A1041-c,Nectocarcinus antarcticus,N,N,Y
+1144a,Neogobius melanostomus,Y,N,Y
+A1378-b,Ostreidae sp.,Y,N,Y
+A1382-b,Ostreidae sp.,Y,N,Y
+1549a,Pachygrapsus fakaravensis,Y,N,Y
+995a,Perna canaliculus,Y,N,Y
+A1048-c,Perna canaliculus,Y,N,Y
+1090a,Perna viridis,Y,N,Y
+1660a,Perna viridis,Y,N,Y
+A1043-c,Petrolisthes elongatus,Y,N,N
+A1004b,Pinctada albina sugillata,Y,N,Y
+1471a,Potamocorbula amurensis,N,N,Y
+A0708-b,Pyromaia tuberculata,N,N,Y
+1551a,Rapana venosa,Y,N,Y
+1136a,Rhithropanopeus harrisii,Y,N,Y
+1670a,Rhithropanopeus harrisii,Y,N,Y
+1668a,Sabella spallanzanii,Y,N,Y
+A1002b,Sabella spallanzanii,Y,N,Y
+A1081-c,Sabella spallanzanii,Y,N,Y
+A1380-b,Saccostrea scyphophilla,Y,N,Y
+1157a,Siganus luridus,Y,N,Y
+1156a,Siganus rivulatus,Y,N,Y
+A1084-c,Styela clava,Y,N,Y
+A1082-c,Styela plicata,Y,N,Y
+738a,Thalamita sima,Y,N,Y
+A1042-c,Theora lubrica,Y,N,Y
+1469a,Tridentiger barbatus,Y,N,Y
+1467a,Tridentiger trigonocephalus,Y,N,Y
+1468a,Tridentiger trigonocephalus,Y,N,Y
+1666a,Undaria pinnatifida,N,Y,Y
+582a,Undaria pinnatifida,N,N,Y
+A0738-2,Undaria pinnatifida,N,Y,Y
+A1386,Xiphonectes hastatoides,Y,N,Y
+A1384,Xiphonectes rugosus,N,N,Y
